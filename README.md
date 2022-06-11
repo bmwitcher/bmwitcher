@@ -4,7 +4,7 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-## I'm a DevSecOps leader, professional and enthusiast thats always learning and guiding anyone to a career in the cloud ☁️.
+### I'm a DevSecOps leader, professional and enthusiast thats always learning and guiding anyone to a career in the ☁️.
 
 ## Portfolio Website! bmwitcher.medium.com
 ### Gitlab 🦊: gitlab.com/bmwitcher <--- Yes I love both github and gitlab
