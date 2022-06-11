@@ -4,7 +4,7 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-# I'm a DevSecOps leader, professional and enthusiast thats always learning and guiding anyone to a career in the cloud ☁️.
+## I'm a DevSecOps leader, professional and enthusiast thats always learning and guiding anyone to a career in the cloud ☁️.
 
 ## Portfolio Website! bmwitcher.medium.com
 ### Gitlab 🦊: gitlab.com/bmwitcher <--- Yes I love both github and gitlab
@@ -14,7 +14,7 @@
 ## Socials and Contacts
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bryant Witcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bmwitcher/)](https://www.linkedin.com/in/bmwitcher/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bryant Witcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/bmwitcher)](linkedin.com/bmwitcher)
 [![Medium Badge](https://img.shields.io/badge/Bryant Witcher-12100E?style=flat-square&logo=medium&logoColor=white&link=bmwitcher.medium.com)](bmwitcher.medium.com)
 [![Gmail Badge](https://img.shields.io/badge/-bwcloudcoaching.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bwcloudcoaching.tech)](mailto:bwcloudcoaching.tech)
 ## ⚡ Technologies
