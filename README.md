@@ -6,8 +6,7 @@
 
 ### I'm a DevSecOps leader, professional and enthusiast thats always learning and guiding anyone to a career in the ☁️.
 
-## Portfolio Website! bmwitcher.medium.com
-### Gitlab 🦊: gitlab.com/bmwitcher <--- Yes I love both github and gitlab
+#### Gitlab 🦊: gitlab.com/bmwitcher <--- Yes I love both github and gitlab
 
 #### Chief Operating Officer at Levelupintech.com ♾️
 
