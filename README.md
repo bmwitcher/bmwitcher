@@ -37,7 +37,3 @@
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=bmwitcher%2Fbmwitcher&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=bmwitcher%2Fbmwitcher)
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
