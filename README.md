@@ -11,7 +11,7 @@
 
 ### I'm a DevSecOps leader, professional and enthusiast thats always learning and guiding anyone to a career in the ☁️.
 
-[![GitLab CI](https://img.shields.io/badge/Bryant%20Witcher-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/bmwitcher/)](https://gitlab.com/bmwitcher)
+
 
 
 #### Chief Operating Officer at Levelupintech.com ♾️
@@ -21,6 +21,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bryant%20Witcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bmwitcher/)](https://www.linkedin.com/in/bmwitcher/)
 [![Medium Badge](https://img.shields.io/badge/Bryant%20Witcher-12100E?style=flat-square&logo=medium&logoColor=white&link=https://bmwitcher.medium.com)](https://bmwitcher.medium.com)
+[![GitLab CI](https://img.shields.io/badge/Bryant%20Witcher-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/bmwitcher/)](https://gitlab.com/bmwitcher)
 [![Gmail Badge](https://img.shields.io/badge/-bwcloudcoaching.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bwcloudcoaching.tech)](mailto:bwcloudcoaching.tech)
 
 ## ⚡ Technologies
