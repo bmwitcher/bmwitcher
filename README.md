@@ -1,5 +1,5 @@
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
-- 👋 Hi, I’m @bmwitcher
+- 👋🏾 Hi, I’m @bmwitcher
 - 👀 I’m interested in DevOps & Cloud Security/Architecture 🔒
 - 🌱 I’m currently learning Python & Multi-Cloud Incident Handling
 - 📫 How to reach me bwcloudcoaching.tech
@@ -11,7 +11,8 @@
 
 ### I'm a DevSecOps leader, professional and enthusiast thats always learning and guiding anyone to a career in the ☁️.
 
-#### Gitlab 🦊: [gitlab.com/bmwitcher/bmwitcher](https://gitlab.com/bmwitcher/bmwitcher) <--- Yes I love both github and gitlab
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white):[gitlab.com/bmwitcher/bmwitcher](https://gitlab.com/bmwitcher/bmwitcher) <--- Yes I love both github and gitlab
+
 
 #### Chief Operating Officer at Levelupintech.com ♾️
 
@@ -27,13 +28,24 @@
 <!-- Check out the Badges folder for more badges -->
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
