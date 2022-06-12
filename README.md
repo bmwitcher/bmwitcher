@@ -1,4 +1,9 @@
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
+- 👋 Hi, I’m @bmwitcher
+- 👀 I’m interested in DevOps & Cloud Security/Architecture 🔒
+- 🌱 I’m currently learning Python & Multi-Cloud Incident Handling
+- 📫 How to reach me bwcloudcoaching.tech
+
 
 ### Welcome to my github 👋🏾
 
@@ -6,7 +11,7 @@
 
 ### I'm a DevSecOps leader, professional and enthusiast thats always learning and guiding anyone to a career in the ☁️.
 
-#### Gitlab 🦊: gitlab.com/bmwitcher <--- Yes I love both github and gitlab
+#### Gitlab 🦊: [gitlab.com/bmwitcher/bmwitcher](https://gitlab.com/bmwitcher/bmwitcher) <--- Yes I love both github and gitlab
 
 #### Chief Operating Officer at Levelupintech.com ♾️
 
