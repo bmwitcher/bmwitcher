@@ -1,8 +1,8 @@
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
-- 👋🏾 Hi, I’m @bmwitcher
-- 👀 I’m interested in DevOps & Cloud Security/Architecture 🔒
-- 🌱 I’m currently learning Python & Multi-Cloud Incident Handling
-- 📫 How to reach me bwcloudcoaching.tech
+👋🏾 Hi, I’m @bmwitcher
+👀 I’m interested in DevOps & Cloud Security/Architecture 🔒
+🌱 I’m currently learning Python & Multi-Cloud Incident Handling
+📫 How to reach me bwcloudcoaching.tech
 
 
 ### Welcome to my github 👋🏾
