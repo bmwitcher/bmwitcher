@@ -5,7 +5,7 @@
 - 📫 How to reach me bwcloudcoaching.tech
 
 
-### Welcome to my github 👋🏾
+### Welcome to my Github 👋🏾
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
