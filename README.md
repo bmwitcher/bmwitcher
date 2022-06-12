@@ -11,7 +11,7 @@
 
 ### I'm a DevSecOps leader, professional and enthusiast thats always learning and guiding anyone to a career in the ☁️.
 
-[![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/bmwitcher/)](https://gitlab.com/bmwitcher)
+[![GitLab CI](https://img.shields.io/badge/Bryant%20Witcher-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/bmwitcher/)](https://gitlab.com/bmwitcher)
 
 
 #### Chief Operating Officer at Levelupintech.com ♾️
