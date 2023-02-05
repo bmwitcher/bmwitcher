@@ -1,8 +1,8 @@
 <!-- Keep "Hi there" or replace it with a greeting of your own! -->
 - 👋🏾 Hi, I’m @bmwitcher
 - 👀 I’m interested in DevOps & Cloud Security/Architecture 🔒
-- 🌱 I’m currently learning Python & Multi-Cloud Incident Handling
-- 📫 How to reach me bwcloudcoaching.tech
+- 🌱 I’m currently learning Kubernetes & Multi-Cloud Incident Handling
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Bryant%20Witcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bmwitcher/)](https://www.linkedin.com/in/bmwitcher/)
 
 
 ### Welcome to my Github 👋🏾
@@ -22,7 +22,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Bryant%20Witcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bmwitcher/)](https://www.linkedin.com/in/bmwitcher/)
 [![Medium Badge](https://img.shields.io/badge/Bryant%20Witcher-12100E?style=flat-square&logo=medium&logoColor=white&link=https://bmwitcher.medium.com)](https://bmwitcher.medium.com)
 [![GitLab CI](https://img.shields.io/badge/Bryant%20Witcher-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/bmwitcher/)](https://gitlab.com/bmwitcher)
-[![Gmail Badge](https://img.shields.io/badge/-bwcloudcoaching.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bwcloudcoaching.tech)](mailto:bwcloudcoaching.tech)
+[![Gmail Badge](https://img.shields.io/badge/-levelupintech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bryant@levelupintech.com)](mailto:bryant@levelupintech.com)
 
 ## ⚡ Technologies
 
